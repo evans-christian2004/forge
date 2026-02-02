@@ -55,6 +55,11 @@ export function Hero() {
                     </div>
                   </div>
                 </Link>
+                <Link href={"/christianevans"}>
+                    <Button className="w-full h-full rounded-full px-8 bg-purple-900 hover:bg-[#9064ef]">
+                      See Christian!!!
+                    </Button>
+                </Link>
               </div>
             </div>
 
